@@ -10,8 +10,8 @@ this_is_a_map 'yes'
 
 -- Included Files
 files {
-    'stream/*',
-    'data/*',
+    --'stream/*',
+    --'data/*',
     'visualsettings.dat',
 }
 
